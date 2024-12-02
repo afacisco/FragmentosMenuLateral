@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragmentos Menu Lateral</string>
+    <string name="op_home_toast">Home selected</string>
+    <string name="op_home_menu">Home</string>
+    <string name="op_profile_toast">Profile selected</string>
+    <string name="op_profile_menu">Profile</string>
+    <string name="op_settings_toast">Settings selected</string>
+    <string name="op_settings_menu">Settings</string>
+    <string name="text_home_fragment">Hello Home fragment</string>
+    <string name="text_settings_fragment">Hello Settings fragment</string>
+    <string name="text_profile_fragment">Hello Profile fragment</string>
+</resources>
